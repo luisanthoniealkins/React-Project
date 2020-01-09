@@ -1,0 +1,71 @@
+
+.promo-form{
+    max-width: 650px;
+    min-width: 300px;
+    width: 70%;
+    color: white;
+    background-color: #000000c9;
+    border: 2px solid #00bcd4;
+    border-radius: 20px;
+}
+
+
+
+.container1{
+    padding : 20px;
+    border-bottom: 2px solid #00bcd4;
+}
+
+.form-title{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: left;
+    color: lightblue;
+    font-size: 30px;
+    font-family: "Arial", Times, Sans-serif;
+    font-weight: 100;
+    font-variant: small-caps;
+}
+
+.container2{    
+    width: 90%;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content-title{
+    font-size: 22px;
+    color: rgb(222, 255, 157);
+    
+}
+
+.content-date{
+    font-size: 14px;
+    color:rgb(121, 172, 117);
+}
+    
+.content-text{
+    font-size: 18px;
+    color: rgb(242, 255, 245);
+    border: 2px solid #4caf50;
+    background: #4caf50;
+    text-align: justify;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    transition: 0.8s;
+}
+
+.content-text:hover{
+    background:none;        
+    transition: 0.8s;
+}
+
